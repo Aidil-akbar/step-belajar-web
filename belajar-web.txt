@@ -1,7 +1,6 @@
 Belajar cara kerja komputer
 belajar cara kerja internet
 belajar html 
-belajar css
 belajat javascript
 belajar php
 belajar pyton
