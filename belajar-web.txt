@@ -1,6 +1,8 @@
 Belajar cara kerja komputer
 belajar cara kerja internet
-belajar html 
+belajar html dasar
+belajar html lanjutan
+belajar css dasar
+belajar css lanjutan
 belajat javascript
-belajar php
-belajar pyton
+
