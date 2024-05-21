@@ -1,8 +1,7 @@
-Belajar cara kerja komputer
-belajar cara kerja internet
 belajar html dasar
 belajar html lanjutan
 belajar css dasar
 belajar css lanjutan
-belajat javascript
-
+belajat javascript dasar 
+belajat javascript dasar 
+belajar php dasar
